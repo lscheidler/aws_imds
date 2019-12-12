@@ -59,7 +59,7 @@ p AwsImds.user_data
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/lscheidler/aws\_imds.
+Bug reports and pull requests are welcome on GitHub at https://github.com/lscheidler/aws_imds.
 
 ## License
 
